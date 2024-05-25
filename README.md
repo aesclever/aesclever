@@ -5,8 +5,11 @@ I am a seasoned software developer at AES LLC. I am driven by a curiosity for te
     "Knowing is not enough; we must apply. Wishing is not enough; we must do."
     Johann Wolfgang von Goethe
 
-![aesclever's Stats](https://github-readme-stats.vercel.app/api?username=aesclever&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+*This is my private git handle where most contents are hidden*.  Look me up at [hurricanemark](https://github.com/hurricanemark)
 
+<!--
+![aesclever's Stats](https://github-readme-stats.vercel.app/api?username=aesclever&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+-->
 ## 🚀 About Me
 
 - 🔭 I'm a founding member of [OutsideTheTacks Inc.](https://outsidethestacks.com)  I am also an engineer and the CTO of [Applied Expert Systems LLC](https://new.aesclever.com)
