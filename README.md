@@ -29,20 +29,22 @@ I am a seasoned software developer at AES LLC. I am driven by a curiosity for te
 - 🚀 Being the best mediocre gardener, donating my garden bounty to the local food bank
 - 🚀 Keeping busy with projects in a stealth mode startup to get my blood pumping
   
+
+ ## 🏆 Experience & Knowledge Base
+
+- 🌟   [Responsive Web Design](https://freecodecamp.org/certification/marknltv/responsive-web-design)
+
+- 🌟   [Back End Development and APIs](https://freecodecamp.org/certification/marknltv/back-end-development-and-apis)
+
+- 🌟   [JavaScript Algorithms and Data Structures](https://freecodecamp.org/certification/marknltv/javascript-algorithms-and-data-structures)
+
+- 🌟   [Relational Database](https://freecodecamp.org/certification/marknltv/relational-database-v8)
+
+- 🌟   [Building Web APIs with ASP.NET Core in .NET](https://www.linkedin.com/learning/certificates/180b8c4d006dabad1bfe8b57a9290a34d104e354d8f66f1c4a8c49aa31922457)
+
+- 🌟   [Azure Virtual Desktop](https://learn.microsoft.com/api/achievements/share/en-us/MarkNguyen-9505/JUUFQ2PT?sharingId=AFC41D671C932219)
+
 <!--
- ## 🏆 Achievements
-
-- 🌟   [Responsive Web Design - freeCodeCamp](https://freecodecamp.org/certification/marknltv/responsive-web-design)
-
-- 🌟   [Back End Development and APIs - freeCodeCamp](https://freecodecamp.org/certification/marknltv/back-end-development-and-apis)
-
-- 🌟   [JavaScript Algorithms and Data Structures - freeCodeCamp](https://freecodecamp.org/certification/marknltv/javascript-algorithms-and-data-structures)
-
-- 🌟   [Relational Database - freeCodeCamp](https://freecodecamp.org/certification/marknltv/relational-database-v8)
-
-- 🌟   [Building Web APIs with ASP.NET Core in .NET - LinkedIn](https://www.linkedin.com/learning/certificates/180b8c4d006dabad1bfe8b57a9290a34d104e354d8f66f1c4a8c49aa31922457)
-
-
 - ⚡ [Resume](https://gist.github.com/hurricanemark/10fe4d8bbb07d766549dce6f6ec74ce9)
 -->
 
