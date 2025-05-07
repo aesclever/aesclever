@@ -5,7 +5,7 @@ I am a seasoned software developer at AES LLC. I am driven by a curiosity for te
     "Knowing is not enough; we must apply. Wishing is not enough; we must do."
     Johann Wolfgang von Goethe
 
-*This is my private git handle where most contents are hidden*.  Look me up at [hurricanemark](https://github.com/hurricanemark)
+*This is my private git handle where most contents are hidden*.  For a more publicized profile, look me up at [hurricanemark](https://github.com/hurricanemark)
 
 <!--
 ![aesclever's Stats](https://github-readme-stats.vercel.app/api?username=aesclever&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
